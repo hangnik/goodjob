@@ -1,5 +1,5 @@
   # goodJob
-![logo](https://user-images.githubusercontent.com/97607752/234814967-4c2b7fe4-e178-453a-ad91-c865abf890bb.jpg)
+![logo](https://user-images.githubusercontent.com/97607752/235611771-004c8f4c-3ef0-43ee-8b39-3bc90d5d18a1.jpg)
 
   ## 프로젝트 소개
   사람인 API와 공공데이터 포털의 API를 활용하여 기업들의 취업 정보 및 회사 정보를 제공하는 웹사이트입니다.
@@ -9,7 +9,7 @@
   
   ## 개발 환경
   ### Environment
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
   ### Development
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -29,6 +29,6 @@
   ## 7. 구현 화면
   |메인페이지|공고목록|
 |------|------|
-| |테스트2|
+| ![main1](https://user-images.githubusercontent.com/97607752/235611943-3533a8a7-b5e3-4177-a2ac-254f2cbad271.jpg)|![list](https://user-images.githubusercontent.com/97607752/235615549-34cadd83-a633-4809-a941-c80140d4f3af.jpg)|
   
   
