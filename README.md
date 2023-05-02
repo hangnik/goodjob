@@ -29,6 +29,6 @@
   ## 7. 구현 화면
   |메인페이지|공고목록|
 |------|------|
-|![main1](https://user-images.githubusercontent.com/97607752/235616157-180fc53a-ef99-4fa3-8667-89e3e32a99df.jpg)|![list](https://user-images.githubusercontent.com/97607752/235616197-73bb479a-8583-4793-97ed-8d48715a631a.jpg)|
+|![main1](https://user-images.githubusercontent.com/97607752/235616157-180fc53a-ef99-4fa3-8667-89e3e32a99df.jpg)|![list2](https://user-images.githubusercontent.com/97607752/235617317-59b27ae9-db81-42c7-9160-05c180d829f2.jpg)|
   
   
