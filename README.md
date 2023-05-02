@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
    
   ## DB ERD
-  <img width="768" alt="db_erd" src="https://user-images.githubusercontent.com/97607752/234818032-d8e0c2da-2484-48cc-8ece-2defa69e9634.png">
+<img width="692" alt="db_erd" src="https://user-images.githubusercontent.com/97607752/235616097-4d5fdb11-891b-4b42-ba6c-c955ccf5f56b.png">
 
   ## 6. 담당 기능
   - Ajax를 사용하여 검색 키워드와 지역, 직무를 선택하여 다중 검색이 가능하도록 구현
@@ -29,6 +29,6 @@
   ## 7. 구현 화면
   |메인페이지|공고목록|
 |------|------|
-| ![main1](https://user-images.githubusercontent.com/97607752/235611943-3533a8a7-b5e3-4177-a2ac-254f2cbad271.jpg)|![list](https://user-images.githubusercontent.com/97607752/235615549-34cadd83-a633-4809-a941-c80140d4f3af.jpg)|
+|![main1](https://user-images.githubusercontent.com/97607752/235616157-180fc53a-ef99-4fa3-8667-89e3e32a99df.jpg)|![list](https://user-images.githubusercontent.com/97607752/235616197-73bb479a-8583-4793-97ed-8d48715a631a.jpg)|
   
   
